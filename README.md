@@ -30,7 +30,7 @@ A simple React application for displaying a list of Apple products, built with V
    git clone https://github.com/your-username/eCommerce-productListing.git
    cd eCommerce-productListing
 
-   ```markdown
+   ```
 # eCommerce Product Listing
 
 A simple React application for displaying a list of Apple products, built with Vite for fast development and modern tooling.
